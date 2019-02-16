@@ -49,7 +49,7 @@
     "search.smartCase": true,
     "workbench.tree.indent": 19,
     "workbench.statusBar.visible": true,
-    "workbench.activityBar.visible": true,
+    "workbench.activityBar.visible": false,
     "editor.fontWeight": "500",
     "editor.fontSize": 17,
     "editor.cursorSmoothCaretAnimation": true,
