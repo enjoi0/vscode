@@ -1,0 +1,5 @@
+*
+!.gitignore
+!gp_*
+!settings.json
+!keybindings.json
